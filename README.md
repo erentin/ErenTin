@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<a href="https://tailwindcss.com/">![Tailwind][tailwind.com]</a>
-<a href="https://www.docker.com/">![Docker][Docker.com]</a>
-<a href="https://laravel.com/">![Laravel][Laravel.com]</a>
+<div class="align:center>
+  
+  <a href="https://tailwindcss.com/">![Tailwind][tailwind.com]</a>
+  <a href="https://www.docker.com/">![Docker][Docker.com]</a>
+  <a href="https://laravel.com/">![Laravel][Laravel.com]</a>
+</div>
 
 <!--
 **erentin/ErenTin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
