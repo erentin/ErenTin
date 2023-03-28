@@ -1,6 +1,7 @@
-### Hi there 👋
-
-<div class="align:center>
+<h1 align="center">
+  Hi there 👋
+</h1>
+<div align="center">
   
   <a href="https://tailwindcss.com/">![Tailwind][tailwind.com]</a>
   <a href="https://www.docker.com/">![Docker][Docker.com]</a>
